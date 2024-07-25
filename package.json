@@ -1,6 +1,6 @@
 {
   "name": "systemctranslator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "provides information about the value specified in the parameter according to the C measurement system",
   "type": "module",
   "repository": {
