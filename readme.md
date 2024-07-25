@@ -6,7 +6,7 @@ provides information about the value specified in the parameter according to the
 
 ### getAllNamesoFMagnitudes();
 
-Названия всех физических величин, о которых можно получить информацию:\ 
+Названия всех физических величин, о которых можно получить информацию: 
 Длина\
 Масса\
 Время\
@@ -35,7 +35,7 @@ provides information about the value specified in the parameter according to the
 Поглощённая доза ионизирующего излучения\
 Эффективная доза ионизирующего излучения\
 Эффективная доза ионизирующего излучения\
-Активность катализатора\
+Активность катализатора
 
 ### getInfoOfmagnitude("Сила");
 
