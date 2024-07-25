@@ -1,13 +1,17 @@
 {
   "name": "systemctranslator",
   "version": "1.0.0",
-  "description": "",
+  "description": "provides information about the value specified in the parameter according to the C measurement system",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myname/mypackage.git"
+  },
   "main": "index.js",
   "scripts": {
     "start": "node ./index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Valeentin87@list.ru",
   "license": "ISC"
 }
