@@ -57,5 +57,11 @@ function  getAllNamesoFMagnitudes() {
     });
 
 }   
-    
+
+
+// getAllNamesoFMagnitudes();
+
+// console.log(getInfoOfmagnitude("Сила"));
+
 module.exports = { getAllNamesoFMagnitudes, getInfoOfmagnitude };
+
