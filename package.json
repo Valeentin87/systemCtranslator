@@ -5,7 +5,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/myname/mypackage.git"
+    "url": "git+https://github.com/Valeentin87/systemCtranslator.git"
   },
   "main": "index.js",
   "scripts": {
